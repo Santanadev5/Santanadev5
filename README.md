@@ -1,3 +1,16 @@
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://seu-portfólio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
 <h2 align="left">Techs</h2>
 
 ###

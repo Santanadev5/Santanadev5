@@ -1,4 +1,4 @@
-<h2 align="left">Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 
 ###
 
@@ -17,11 +17,11 @@
 </div>
 
 
-<h2 align="left">Techs</h2>
+<h2 align="center">Techs</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -47,11 +47,11 @@
 
 ###
 
-<h2 align="left">Tools</h2>
+<h2 align="center">Tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="center">Stats</h2>
 
 ###
 
